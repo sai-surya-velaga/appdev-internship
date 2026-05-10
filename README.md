@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Android Development Fundamentals
 
-You can use the [editor on GitHub](https://github.com/Sai-surya-velaga/appdev-internship/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A repository dedicated to exploring core Android development concepts, focusing on UI components, activity transitions, and event handling using Java.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📱 Modules
 
-### Markdown
+This project is divided into three functional modules, each targeting a specific area of Android development:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **LoginApp:** Implementation of user authentication UI, focusing on Form Validation, EditTexts, and Intent-based navigation between activities.
+* **ScoreBoard:** A real-time data tracking application that demonstrates dynamic UI updates and state persistence during user interaction.
+* **Counter:** A minimalist utility focused on the Android Activity Lifecycle and basic event listeners.
 
-```markdown
-Syntax highlighted code block
+## 🛠️ Technical Stack
+* **Language:** Java
+* **Platform:** Android SDK
+* **UI Layouts:** XML (Relative & Linear Layouts)
+* **Tools:** Android Studio, Gradle
 
-# Header 1
-## Header 2
-### Header 3
+## 🧠 Key Learning Objectives
+* **Activity Lifecycle:** Managing state transitions and preventing data loss.
+* **Intents & Navigation:** Passing data between different application screens.
+* **Event Handling:** Implementing OnClickListeners and managing user input.
+* **UI Design:** Building responsive layouts using XML.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sai-surya-velaga/appdev-internship/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+**[Sai Surya Velaga](https://github.com/sai-surya-velaga)** | Software Engineer @ Google
